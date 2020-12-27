@@ -5,6 +5,9 @@
       <h1 class="title">
         Site de Oussama Naksho
       </h1>
+      <img
+        src="https://images-na.ssl-images-amazon.com/images/I/51UfgHEbgiL._AC_.jpg"
+      />
       <div class="links">
         <a
           href="https://nuxtjs.org/"
@@ -28,7 +31,7 @@
 </template>
 
 <script>
-export default {}
+export default {};
 </script>
 
 <style>
@@ -42,16 +45,8 @@ export default {}
 }
 
 .title {
-  font-family:
-    'Quicksand',
-    'Source Sans Pro',
-    -apple-system,
-    BlinkMacSystemFont,
-    'Segoe UI',
-    Roboto,
-    'Helvetica Neue',
-    Arial,
-    sans-serif;
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont,
+    "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
   display: block;
   font-weight: 300;
   font-size: 100px;
