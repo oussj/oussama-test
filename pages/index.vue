@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        site-oussama
+        Site de Oussama Naksho
       </h1>
       <div class="links">
         <a
